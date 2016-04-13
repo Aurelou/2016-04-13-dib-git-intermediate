@@ -1,7 +1,18 @@
-# Git DIB training blabla
+# Git intermediate training
 
-This a github edit
+git push -u origin master
+- sets up default, so can do 'git push' from now on
 
-ttooto
+can edit on github
 
-I <3 ramen noodles
+today we will discuss: 
+-conflicts
+-branches
+-merging
+-pull requests
+-forks
+-etc
+
+another edit on github
+
+Hahah, messing everything up!
